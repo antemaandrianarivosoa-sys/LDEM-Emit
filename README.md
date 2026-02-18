@@ -90,7 +90,6 @@
             <li>contacte: 038 35 198 19</li>
             <li>Email:antemaandrianrivosoa@gmail.com</li>
             <li>Adresse:Andrainjato fianarantsoa </li>
-            <li>Situation Matrimoniale: celibataire </li>
             <li>Mention: Informatique </li>
 
         </ul>
