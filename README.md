@@ -60,24 +60,43 @@
         </div>
       
         </div>
-    <div class="flexbox">
-        <h1>Membre 3</h1>
-        <img src="20260216_181944.heic" alt="photo d'indentité"width=180>
-        <h2> information personnel</h2>
-        <ul>
-            <li>Nom: ANDRIANARIVOSOA </li>
-            <li>Prénoms: Antema Fiderana </li>
-            <li>Age:17 ans</li>
-            <li>contacte: 038 35 198 19</li>
-            <li>Email:antemaandrianrivosoa@gmail.com</li>
-            <li>Adresse:Andrainjato fianarantsoa </li>
-            <li>Mention: Informatique </li>
+            <div class="flexbox">
+                <h1>Membre 3</h1>
+                <img src="20260216_181944.heic" alt="photo d'indentité"width=180>
+                <h2> information personnel</h2>
+                <ul>
+                <li>Nom: ANDRIANARIVOSOA </li>
+                <li>Prénoms: Antema Fiderana </li>
+                <li>Age:17 ans</li>
+                <li>contacte: 038 35 198 19</li>
+                <li>Email:antemaandrianrivosoa@gmail.com</li>
+                <li>Adresse:Andrainjato fianarantsoa </li>
+                <li>Mention: Informatique </li>
 
-        </ul>
+            </ul>
         
 
-    </div>
-   
+        </div>
+        <div class="flexbox">
+            <h1>Membre 4</h1>
+             <link rel="short icon" href="./tt.jpg">
+            <h2>Information personnel</h2>
+            <!-- UL = unorder list -->
+            <ul>
+                <li>Nom : TOTO</li>
+                <li>Prenom : Liang Wenceslas Truilino</li>
+                <li>Age : 19 ans </li>
+                <li>CIN : 301071048825</li>
+                <li>contact : 032 48 709 78</li>
+                <li>Email : truilinoliang@gamil.com</li>
+                <li>Adresse : Andrainjato Fianarantsoa</li>
+                <li>Situation Matrimoniale : Celibataire</li>
+                <li>Profession : Etudiant</li>
+                <li>Mention : Informatique</li>
+            </ul>
+            
+        </div>
+        <div class="flexbox">
     </main>
     <footer></footer>
 
