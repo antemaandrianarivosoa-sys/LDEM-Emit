@@ -79,6 +79,36 @@
             </ul>
 
         </div>
+        </div>
+    <div class="flexbox">
+        <h1>Membre 3</h1>
+        <img src="20260216_181944.heic" alt="photo d'indentité"width=180>
+        <h2> information personnel</h2>
+        <ul>
+            <li>Nom: ANDRIANARIVOSOA </li>
+            <li>Prénoms: Antema Fiderana </li>
+            <li>Age:17 ans</li>
+            <li>contacte: 038 35 198 19</li>
+            <li>Email:antemaandrianrivosoa@gmail.com</li>
+            <li>Adresse:Andrainjato fianarantsoa </li>
+            <li>Mention: Informatique </li>
+
+        </ul>
+        
+
+    </div>
+    <div class="flexbox">
+        <h2> Diplome </h2>
+
+        <ul>
+            <li>2017-2018: CEPE</li>
+            <li>2021-2022: BEPC</li>
+            <li>2024-2025: BACC</li>
+            <li>Actuellement:  Etudiant en Informatique à l' EMIT Fianarantsoa </li>
+
+        </ul>
+
+    </div>
     </main>
     <footer></footer>
 
