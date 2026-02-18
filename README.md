@@ -25,12 +25,12 @@
             <h2>Information personnel</h2>
             <!-- UL = unorder list -->
             <ul>
-                <li>Nom : TOTO</li>
-                <li>Prenom : Liang Wenceslas Truilino</li>
+                <li>Nom : RAJAOHARSISON</li>
+                <li>Prenom : Adolph Moreno</li>
                 <li>Age : 19 ans </li>
-                <li>CIN : 301071048825</li>
-                <li>contact : 032 48 709 78</li>
-                <li>Email : truilinoliang@gamil.com</li>
+                <li>CIN : 501071041150</li>
+                <li>contact : 033 95 894 18</li>
+                <li>Email : mrajaoharison@gmail.com</li>
                 <li>Adresse : Andrainjato Fianarantsoa</li>
                 <li>Situation Matrimoniale : Celibataire</li>
                 <li>Profession : Etudiant</li>
