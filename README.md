@@ -41,9 +41,9 @@
         <div class="flexbox">
             <h2>Parcours</h2>
             <ul>
-                <li>2010-2014 : Etude maternelle à l'école KANTIZAZA</li>
-                <li>2015-2019 : Etude primaire à l'école privée les Premices</li>
-                <li>2019-2025 : Etude secondaire au lycée privées Notre Dame de Lourdes</li>
+                <li>2010-2014 : Etude maternelle à l'école CAPRICORNE SCHOOL</li>
+                <li>2015-2019 : Etude primaire à l'école privée MÉMORIAL SCHOOL</li>
+                <li>2019-2025 : Etude secondaire au lycée privées CPE</li>
                 <li>Actuellment : Etude universitaire à l'EMIT Fianarantsoa</li>
             </ul>
         </div>
