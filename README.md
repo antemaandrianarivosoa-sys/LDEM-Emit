@@ -62,7 +62,8 @@
         </div>
     <div class="flexbox">
         <h1>Membre 3</h1>
-        <img src="20260216_181944.heic" alt="photo d'indentité"width=180>
+        <img src="![WhatsApp Image 2026-02-18 at 3 51 01 PM](https://github.com/user-attachments/assets/efb49e46-6437-4ebf-b891-c71d18394206)
+" alt="photo d'indentité"width=180>
         <h2> information personnel</h2>
         <ul>
             <li>Nom: ANDRIANARIVOSOA </li>
