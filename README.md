@@ -38,15 +38,7 @@
             </ul>
             
         </div>
-        <div class="flexbox">
-            <h2>Parcours</h2>
-            <ul>
-                <li>2010-2014 : Etude maternelle à l'école CAPRICORNE SCHOOL</li>
-                <li>2015-2019 : Etude primaire à l'école privée MÉMORIAL SCHOOL</li>
-                <li>2019-2025 : Etude secondaire au lycée privées CPE</li>
-                <li>Actuellment : Etude universitaire à l'EMIT Fianarantsoa</li>
-            </ul>
-        </div>
+      
         <div class="flexbox">
             <h1>Membre 2</h1>
             <img src="c:\Users\Randy\Downloads\635558845_1947617126129301_5604299084576595822_n.jpg" alt="photo de Randy"width=180>
@@ -66,19 +58,7 @@
             
 
         </div>
-        <div class="flexbox">
-            <h2>Parcours et diplome </h2>
-
-            <ul>
-                <li>2017-2018: CEPE</li>
-                <li>2021-2022: BEPC</li>
-                <li>2023: Certificat : Langue Anglais </li>
-                <li>2024-2025: BACCALAUREAT</li>
-                <li>Actuellement:  etude en Informatique à l' EMIT Fianarantsoa </li>
-
-            </ul>
-
-        </div>
+      
         </div>
     <div class="flexbox">
         <h1>Membre 3</h1>
@@ -97,18 +77,7 @@
         
 
     </div>
-    <div class="flexbox">
-        <h2> Diplome </h2>
-
-        <ul>
-            <li>2017-2018: CEPE</li>
-            <li>2021-2022: BEPC</li>
-            <li>2024-2025: BACC</li>
-            <li>Actuellement:  Etudiant en Informatique à l' EMIT Fianarantsoa </li>
-
-        </ul>
-
-    </div>
+   
     </main>
     <footer></footer>
 
