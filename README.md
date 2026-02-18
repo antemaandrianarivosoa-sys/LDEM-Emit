@@ -60,23 +60,23 @@
         </div>
       
         </div>
-    <div class="flexbox">
-        <h1>Membre 3</h1>
-        <img src="20260216_181944.heic" alt="photo d'indentité"width=180>
-        <h2> information personnel</h2>
-        <ul>
-            <li>Nom: ANDRIANARIVOSOA </li>
-            <li>Prénoms: Antema Fiderana </li>
-            <li>Age:17 ans</li>
-            <li>contacte: 038 35 198 19</li>
-            <li>Email:antemaandrianrivosoa@gmail.com</li>
-            <li>Adresse:Andrainjato fianarantsoa </li>
-            <li>Mention: Informatique </li>
-
-        </ul>
-        
-
-    </div>
+        <div class="flexbox">
+            <h1>Membre 3</h1>
+            <img src="20260216_181944.heic" alt="photo d'indentité"width=180>
+            <h2> information personnel</h2>
+            <ul>
+                <li>Nom: ANDRIANARIVOSOA </li>
+                <li>Prénoms: Antema Fiderana </li>
+                <li>Age:17 ans</li>
+                <li>contacte: 038 35 198 19</li>
+                <li>Email:antemaandrianrivosoa@gmail.com</li>
+                <li>Adresse:Andrainjato fianarantsoa </li>
+                <li>Mention: Informatique </li>
+    
+            </ul>
+            
+    
+        </div>
    
     </main>
     <footer></footer>
